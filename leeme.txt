@@ -1,0 +1,4 @@
+Para poder ejecutar el programa ha de importarse las librerias que se encuentran dentro de la carpeta "lib".
+Para ello una vez importado el src se hace click derecho sobre el nombre del proyecto y se le da a "Build Path->Add Externals Archives" una vez en el explorador de archivos se seleccionan todos los archivos que contiene la carpeta lib.
+
+Una vez hecho esto el programa debería funcionar.
